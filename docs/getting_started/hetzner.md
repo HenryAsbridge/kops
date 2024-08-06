@@ -17,7 +17,7 @@ It is important to set the following environment variables:
 ```bash
 export HCLOUD_TOKEN=<token>
 export S3_ENDPOINT=<endpoint>
-export S3_ACCESS_KEY_ID=<acces-key>
+export S3_ACCESS_KEY_ID=<access-key>
 export S3_SECRET_ACCESS_KEY=<secret-key>
 export KOPS_STATE_STORE=s3://<bucket-name>
 ```
